@@ -1,4 +1,4 @@
 function GetFlag {
   Param ([string]$useless)
-  write-host "Naah, there is not flags in current update"
+  write-host "Naah, there is no flags in current update"
 }
